@@ -1,0 +1,22 @@
+
+[
+{
+    "firstname":"snehal",
+    "lastname":"kamble",
+    "email":"snehalkmable1564@gmail.com",
+    "msg":"im learning js and sql"
+},
+{
+"firstname":"nikita",
+"lastname":"kamble",
+"email":"nikitalkamble2555@gmail.com",
+"msg":"im learning python and typescript"
+
+},
+{"firstname":"sayli",
+"lastname":"jogi",
+"email":"sayalijogi1222@gmail.com",
+"msg":"im learning react  and sql"
+
+}
+]
